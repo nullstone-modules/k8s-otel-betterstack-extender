@@ -1,0 +1,17 @@
+org_name: nullstone
+name: k8s-otel-betterstack-extender
+friendly_name: Better Stack OpenTelemetry Extender
+description: Extends an OpenTelemetry collector to export to Better Stack
+category: datastore
+subcategory: ""
+provider_types:
+    - aws
+    - gcp
+platform: otel-extender
+subplatform: betterstack
+type: ""
+appCategories: []
+is_public: true
+tool_name: opentofu
+include: []
+source_url: https://github.com/nullstone-modules/k8s-otel-betterstack-extender
